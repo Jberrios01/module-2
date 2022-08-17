@@ -28,3 +28,30 @@ http://www.rleonardi.com/
 <ins><b>My site's purpose</b></ins>
 
 * To make a website that tells my background and my accomplishments which will include my values so i can use it as a resume or profolio. I plan on using pictures and videos to go along with the website. 
+
+<ins><b> Goals of site</ins></b>
+
+* Begin my social Prensence 
+* Accuire a professional website i can sent to anyone professionally
+* Have people leave reviews on my website
+* To be heard and seen accross the world
+* To have a worldwide name/ brand
+
+<ins><b>Milestones</ins></b>
+
+* Creating my own logo
+* Creating an updated contact list 
+* Sending my website to a job as a resume
+* Eventually getting contacted back
+* Getting my first review n my website
+
+<ins><b> Metrics</ins></b>
+
+* How many visitors over time
+* Average time on my website
+* Top traffic sources
+* How many good and bad reviews
+* how many people contact me based off the website i create.
+
+<ins><b> Analytics</ins></b>
+
