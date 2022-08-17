@@ -73,4 +73,11 @@ http://www.rleonardi.com/
 
 * Markdown
 * Grammarly
-* 
+* Seo Site Checkup (https://seositecheckup.com/)
+
+<ins><b> Accessibility Considerations</ins></b>
+
+* Large font sizes
+* User friendly
+
+![image info](pictures/gloomap.png)
