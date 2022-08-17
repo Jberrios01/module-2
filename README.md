@@ -55,3 +55,22 @@ http://www.rleonardi.com/
 
 <ins><b> Analytics</ins></b>
 
+* Hot jar (https://www.hotjar.com/)
+* Woopra (https://www.woopra.com/)
+* Clicky (https://clicky.com/)
+* Google Analytics (https://analytics.google.com/)
+* Hubspot (https://www.hubspot.com/)
+
+<ins><b> Website Content</ins></b>
+
+<ins><b> Image Tools</ins></b>
+
+* Personal Photo album
+* Google images
+* Unsplash (https://unsplash.com/)
+
+<ins><b> Text Tools</ins></b>
+
+* Markdown
+* Grammarly
+* 
