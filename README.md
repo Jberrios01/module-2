@@ -80,5 +80,8 @@ http://www.rleonardi.com/
 * Large font sizes
 * User friendly
 
+<ins><b> GlooMaps</ins></b>
+
+GlooMaps (https://www.gloomaps.com/afycnjHAbG)
 
 <img width="994" alt="gloomap" src="https://user-images.githubusercontent.com/109974903/185247498-b7e857cf-8283-42cd-bcf8-37bb25d3019f.png">
