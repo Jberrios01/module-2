@@ -86,6 +86,11 @@ GlooMaps (https://www.gloomaps.com/afycnjHAbG)
 
 <img width="994" alt="gloomap" src="https://user-images.githubusercontent.com/109974903/185247498-b7e857cf-8283-42cd-bcf8-37bb25d3019f.png">
 
+<ins><b>Phootshop Site map</ins></b>
+
+![jb](https://user-images.githubusercontent.com/109974903/185420740-7c556b49-4e83-45cf-adad-bccaab9779a3.png)
+
+
 <ins><b> Target Audience</ins></b>
 
 * My Main target audience is men and women from ages 18 to late 40's. Preferably young adults,content creaters, CEO's, young black men so they can use this as motivation.
