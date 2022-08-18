@@ -99,4 +99,4 @@ GlooMaps (https://www.gloomaps.com/afycnjHAbG)
 
 * I choose to design my website this way Because im a fan of Gary Vaynerchuk. Who is a very successful business man and motivational speaker. So i used his website as a template.
 
-*The colors that i choose to compliment my website were to compilment my outfit 😎.
+* The colors that i choose to compliment my website were to compilment my outfit 😎.
