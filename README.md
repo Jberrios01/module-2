@@ -94,3 +94,9 @@ GlooMaps (https://www.gloomaps.com/afycnjHAbG)
 <ins><b> Target Audience</ins></b>
 
 * My Main target audience is men and women from ages 18 to late 40's. Preferably young adults,content creaters, CEO's, young black men so they can use this as motivation.
+
+<ins><b>Reason I Choose this Design</ins></b>
+
+* I choose to design my website this way Because im a fan of Gary Vaynerchuk. Who is a very successful business man and motivational speaker. So i used his website as a template.
+
+*The colors that i choose to compliment my website were to compilment my outfit 😎.
