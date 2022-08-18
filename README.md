@@ -88,7 +88,8 @@ GlooMaps (https://www.gloomaps.com/afycnjHAbG)
 
 <ins><b>Phootshop Site map</ins></b>
 
-![jb](https://user-images.githubusercontent.com/109974903/185420740-7c556b49-4e83-45cf-adad-bccaab9779a3.png)
+![jb2](https://user-images.githubusercontent.com/109974903/185424915-4b35da79-c81d-4528-9f0e-0172f0835259.png)
+
 
 
 <ins><b> Target Audience</ins></b>
